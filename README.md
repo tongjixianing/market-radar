@@ -2,7 +2,7 @@
 
 ![Market Radar](screenshot.png)
 
-A desktop application that monitors live market data and automatically classifies the current market into one of **5 scenarios** — each with a clear investment action.
+A desktop application that monitors live market data and automatically classifies the current market into one of **5 scenarios** each with a clear investment action.
 
 Stop guessing. Let the data tell you what to do.
 

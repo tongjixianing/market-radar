@@ -1,4 +1,4 @@
-# Market Radar — 5-Scenario Investment Dashboard
+# Market Radar — Know When to Buy, Hold, or Defend
 
 ![Market Radar](screenshot.png)
 

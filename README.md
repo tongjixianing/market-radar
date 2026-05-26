@@ -47,7 +47,6 @@ Portfolio syncs across all your devices.
 - ✓ Clickable source links to verify data
 - ✓ Tooltips explaining what each metric range means
 - ✓ Cross-platform: Windows, macOS, Linux
-- ✓ Dark theme, compact UI
 - ✓ No account needed — just a license key
 - ✓ Lightweight (~330KB)
 

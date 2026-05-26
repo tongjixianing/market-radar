@@ -57,11 +57,7 @@ Portfolio syncs across all your devices.
 
 ## How to Run
 
-**Windows:** Double-click `market-radar.jar`
-
-**macOS:** Double-click `market-radar.jar`
-
-**Linux:** Run `java -jar market-radar.jar`
+Double-click `market-radar.jar` on any platform (Windows, macOS, Linux).
 
 ## Get It
 

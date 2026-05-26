@@ -60,7 +60,7 @@ Portfolio syncs across all your devices.
 
 **Windows:** Double-click `market-radar.jar`
 
-**macOS:** Double-click `run.command` (or run `java -jar market-radar.jar` in Terminal)
+**macOS:** Double-click `market-radar.jar`
 
 **Linux:** Run `java -jar market-radar.jar`
 
@@ -78,4 +78,4 @@ Read the full technical deep-dive: [From Code to CDN: Building a Personal Market
 
 ---
 
-*Built by [Mike Zhang](https://www.zhangxn.com) — Principal Engineer, Sydney*
+*Built by [Mike Zhang](https://www.zhangxn.com)*

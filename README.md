@@ -59,6 +59,8 @@ Portfolio syncs across all your devices.
 
 Double-click `market-radar.jar` on any platform (Windows, macOS, Linux).
 
+The zip also includes `run.command` — a macOS launcher script. If double-clicking the JAR doesn't work on your Mac, double-click `run.command` instead (it opens Terminal and runs the JAR automatically).
+
 ## Get It
 
 **Price: $20 (one-time purchase)**
